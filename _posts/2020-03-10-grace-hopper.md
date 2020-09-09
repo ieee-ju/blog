@@ -3,6 +3,7 @@ layout: post
 title:  "Grace Hopper"
 author: john
 image: assets/images/Grace Hopper.png
+categories: [ Women in Tech ]
 
 ---
 

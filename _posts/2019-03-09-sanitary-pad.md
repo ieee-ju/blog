@@ -3,6 +3,7 @@ layout: post
 title:  "Sanitary Pad : What is the first thing that comes to our mind when we say the word ‘technology’? ..."
 author: john
 image: assets/images/women.jpg
+categories: [ Technology ]
 ---
 
 What is the first thing that comes to our mind when we say the word ‘technology’? 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Rosalind Franklin"
 author: sal
-categories: [ Travel, Lifestyle ]
+categories: [ Women in Tech ]
 image: assets/images/Rosalind Franklin.png
 ---
 Whether it's the technology that allows us to peer deep into the body or medicines that extend the lives of those with chronic diseases, it's easy to see how advances in health and medicine have touched the lives of nearly every person on the planet.

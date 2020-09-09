@@ -2,7 +2,7 @@
 layout: post
 title:  "Anita Sengupta"
 author: john
-categories: [ Travel ]
+categories: [ Women in Tech ]
 image: assets/images/Anita Sengupta.png
 ---
 

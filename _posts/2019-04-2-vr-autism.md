@@ -2,7 +2,7 @@
 layout: post
 title:  "VR Autism "
 author: sal
-categories: [ Lifestyle ]
+categories: [ Technology ]
 tags: [ techtuesday ]
 image: assets/images/VR for Autism.jpg
 ---

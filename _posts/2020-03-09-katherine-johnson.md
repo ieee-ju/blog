@@ -2,7 +2,7 @@
 layout: post
 title:  "Katherine Johnson"
 author: john
-categories: [ Lifestyle ]
+categories: [ Women in Tech ]
 tags: [France]
 image: assets/images/Katherine Johnson.png
 ---

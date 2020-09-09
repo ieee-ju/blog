@@ -2,8 +2,7 @@
 layout: post
 title:  "Patricia Bath"
 author: john
-categories: [ Lifestyle ]
-tags: [ Movies ]
+categories: [ Women in Tech ]
 image: assets/images/Patricia Bath.png
 ---
 As we continue to walk down the path of celebrating women and their contribution in science, we cannot ignore Patricia E. Bath, the inventor of laserphaco surgery for cataract.
